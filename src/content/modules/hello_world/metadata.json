@@ -1,0 +1,11 @@
+{
+	"source": "extends",
+	"version": "1.0",
+	"embed": true,
+	"controllers": {
+		"HelloWorldController": "controllers/HelloWorldController.php"
+	},
+	"main_class": "HelloWorldController",
+	"manufacturer_name": "UliCMS",
+	"manufacturer_url": "https://www.ulicms.de"
+}

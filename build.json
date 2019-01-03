@@ -1,0 +1,12 @@
+{
+	"source" : "extend",
+	"id": "hello_world",
+	"version": "1.0",
+	"description": "The mandatory \"Hello World!\" programming example",
+	"categories": [
+		"development",
+		"other"
+	],
+	"compatible_from": "2018.3",
+	"dependencies": []
+}
